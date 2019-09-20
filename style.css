@@ -1,0 +1,37 @@
+body{
+	background-image:url(http://isha.sadhguru.org/blog/wp-content/uploads/2016/05/natures-temples.jpg);
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	
+}
+
+h1{
+color:#52437b;
+background-color:#47e4bb;
+padding:20px;
+}
+.cen{
+	text-align:center;
+}
+
+
+.prq{
+	color:3b064d;
+	background-color:#ffbbcc;
+	padding:50px;
+	font-size:25px;
+	margin:0 auto;
+}
+button{
+	padding:20px;
+}
+.pp{
+	color:#c93838;
+	font-size:25px;
+	font-weight:55px;
+	margin:auto;
+}
+.pp1{
+	color:#1089ff;
+	font-size:25px;
+}
